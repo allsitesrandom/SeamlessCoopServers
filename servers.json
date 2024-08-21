@@ -1,7 +1,19 @@
 [
   {
     "nome": "Room1",
-    "senha": "password123",
+    "senha": "WATest",
+    "tag": "Exploration",
+    "timestamp_criacao": "2024-08-21 14:30:00"
+  },
+  {
+    "nome": "Room2",
+    "senha": "WA321E",
+    "tag": "Exploration",
+    "timestamp_criacao": "2024-08-21 14:30:00"
+  },
+  {
+    "nome": "Room3",
+    "senha": "WAe",
     "tag": "Exploration",
     "timestamp_criacao": "2024-08-21 14:30:00"
   }
